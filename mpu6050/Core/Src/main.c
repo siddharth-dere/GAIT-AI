@@ -41,7 +41,7 @@
 
 /* USER CODE END PD */
 
-/* Private macro -------------------------------------------------------------*/
+/////* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
 
 /* USER CODE END PM */
@@ -318,3 +318,4 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
+
