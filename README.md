@@ -65,6 +65,6 @@ Power the sensor with 9 V and STM32 with 3.3 V.
 
 Compile and upload the code to STM32.
 
-Open serial monitor to see EMG readings in mV.
+Open serial monitor to see  EMG readings in mV.
 
 Flex and relax muscle to verify readings above/below 150 mV.
